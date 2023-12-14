@@ -8,6 +8,7 @@ pip install -r requirements.txt
 To run the code, simply execute:
 
 cd som-tsp
+
 python src/main.py assets/<instance>.tsp
 
 The images generated will be stored in the diagrams folder. Using a tool like convert, you can easily generate an animation like the one in this file by running:
