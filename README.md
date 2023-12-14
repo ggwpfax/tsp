@@ -1,5 +1,6 @@
 # tsp
 Traveling Salesman Problem using Self Organizing Maps
+
 To run the code, only Python 3 and the dependencies (matplotlib, numpy and pandas, which are included in the Anaconda distribution by default) are needed. In case you are not using Anaconda, you can install all the dependencies with:
 
 pip install -r requirements.txt
